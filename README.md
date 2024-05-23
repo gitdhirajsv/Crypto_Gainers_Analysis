@@ -25,7 +25,7 @@ To run this project on Google Colab, follow these steps:
 
 ## Usage
 
-1. Open the `Crypto_Gainers_Analysis.ipynb` notebook in Google Colab.
+1. Open the `Crypto_Gainers_Analysis_Notebook.ipynb` notebook in Google Colab.
 2. Run all the cells to scrape data, process it, and visualize the results.
 
 ## Dependencies
